@@ -1,10 +1,3 @@
-/*
-
-Known Template 
-
-http://www.templatemo.com/tm-516-known
-
-*/
 
   @import url('https://fonts.googleapis.com/css?family=Muli:300,700|Nunito');
 
@@ -14,11 +7,6 @@ http://www.templatemo.com/tm-516-known
     overflow-x: hidden;
     padding-top: 70px;
   }
-
-
-  /*---------------------------------------
-     TYPOGRAPHY              
-  -----------------------------------------*/
 
   h1,h2,h3,h4,h5,h6 {
     font-family: 'Muli', sans-serif;
@@ -80,7 +68,7 @@ http://www.templatemo.com/tm-516-known
   }
 
   a:hover, a:active, a:focus {
-    color: #29ca8e;
+    color: #e69223;
     outline: none;
   }
 
@@ -258,7 +246,7 @@ http://www.templatemo.com/tm-516-known
 
   .custom-navbar {
     background: #ffffff;
-    border-top: 5px solid #29ca8e;
+    border-top: 5px solid #fe9f22;
     border-bottom: 0;
     -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -285,7 +273,7 @@ http://www.templatemo.com/tm-516-known
   }
 
   .custom-navbar .navbar-nav.navbar-right li a .fa {
-    background: #29ca8e;
+    background: #20bf33;
     border-radius: 100%;
     color: #ffffff;
     width: 30px;
@@ -309,12 +297,12 @@ http://www.templatemo.com/tm-516-known
   }
 
   .custom-navbar .nav li a:hover {
-    background-color: #29ca8e;
+    background-color: #fe9f22;
     color: #ffffff;
   }
 
   .custom-navbar .nav li.active > a {
-    background-color: #29ca8e;
+    background-color: #fe9f22;
     color: #ffffff;
   }
 
@@ -444,7 +432,7 @@ http://www.templatemo.com/tm-516-known
   }
 
   #about figure span i {
-    background: #29ca8e;
+    background: #fe9f22;
     border-radius: 50px;
     color: #ffffff;
     font-size: 25px;
@@ -580,7 +568,7 @@ http://www.templatemo.com/tm-516-known
   }
 
   .courses-price span {
-    background: #29ca8e;
+    background: #fe9f22;
     border-radius: 2px;
     color: #ffffff;
     display: block;
@@ -858,7 +846,7 @@ http://www.templatemo.com/tm-516-known
   }
 
   .social-icon li a:hover {
-    background: #29ca8e;
+    background: #fe9f22;
     color: #ffffff;
   }
 
